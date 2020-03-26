@@ -1,0 +1,31 @@
+.header-disabled {
+    width: 1px;
+    height: 1px;
+}
+.main-links {
+    display: flex;
+    justify-content: space-between;
+}
+.main-links a {
+    flex-grow: 4;
+}
+.main-links div {
+    flex-grow: 2;
+    border: 1px solid;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+   
+
+}
+.menu a:last-child {
+    flex: 300px;
+}
+.content {
+    display: flex;
+}
