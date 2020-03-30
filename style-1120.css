@@ -247,9 +247,7 @@
 }
 
 @media (max-width:321px) {
-    .center {
-        width: 320px;
-    }
+    
     .icons-and-logo_768px {
         display: none;
     }
